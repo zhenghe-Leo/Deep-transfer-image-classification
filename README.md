@@ -137,6 +137,3 @@ python src_code/train_cifar10.py --save_path checkpoints/cifar10_best.pth --log_
 - `outputs/` 中的图表与表格
 - 相关实验日志与模型权重（如课程要求保留）
 
-## 说明
-
-当前代码结构已尽量按照实验执行计划整理，后续可根据你的数据集路径、训练参数和课程要求继续调整。如果你希望，我也可以进一步帮你把 README 改成“可直接提交给老师/助教”的正式版说明文档。
