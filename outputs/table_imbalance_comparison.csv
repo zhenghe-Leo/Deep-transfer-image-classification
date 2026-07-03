@@ -1,4 +1,0 @@
-method,overall_acc,minority_class_avg_acc
-no_handling,0.8973,0.8154
-weighted_sampler,0.8908,0.8070
-weighted_loss,0.9143,0.8612

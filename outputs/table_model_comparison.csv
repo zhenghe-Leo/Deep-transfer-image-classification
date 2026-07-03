@@ -1,4 +1,0 @@
-model,pretrained,val_acc,params_M,train_time_min
-SimpleCNN,No,0.9566,0.3,12.29
-ResNet50-Scratch,No,0.9626,25.6,12.55
-ResNet50-Pretrained,Yes,0.9920,25.6,8.02

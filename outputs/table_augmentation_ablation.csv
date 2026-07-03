@@ -1,4 +1,0 @@
-augmentation,val_acc
-none,0.9900
-flip_only,0.9920
-full,0.9920
