@@ -1,4 +1,5 @@
-# EE6483 项目 2
+# Deep-transfer-image-classification
+# 基于深度迁移学习的图像分类系统
 
 本仓库用于 NTU 硕士课程 EE6483 Project 2 的图像分类实验，主要包含猫狗二分类实验与 CIFAR-10 扩展实验的代码、结果文件和最终提交文件。
 
